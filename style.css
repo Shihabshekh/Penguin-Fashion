@@ -1,0 +1,64 @@
+h1{
+    font-size: 50px;
+}
+.blue-color{
+    color:rgb(54, 57, 88, 100%);
+}
+.btn-buy{
+    
+    background-image: linear-gradient(rgba(164, 188, 70, 1),rgb(143, 163, 61));
+    border: none;
+    width: 150px;
+}
+.image-size{
+    width: 200px;
+    background-color:
+}
+.card-image{
+    background-color:rgb(241, 241, 241, 100%);
+    width: 250px;
+    height: 300px;
+    border-radius: 1em;
+} 
+.col{
+    background-color: white;
+    border-radius: 10px;
+    width: 350px;
+}
+.card{
+    
+    border: none;
+}
+.Icon{
+    width: 60px;
+}
+.logo{
+    width: 200px;
+}
+.last-box{
+    float: left;
+    border-radius: 20px;
+}
+.image-small{
+    width: 100%;
+}
+.last h3{
+    font-size:20px;
+}
+.last p{
+    font-size: 10px;
+    
+}
+
+@media (max-width: 600px) { 
+    .card-position{
+        margin-left: 60px;
+    }
+    .half-witdh{
+        width: 50%;
+    }
+    .price-buy{
+        float: left;
+        
+    }
+ }
